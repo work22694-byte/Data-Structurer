@@ -1,4 +1,13 @@
-langchain-groq
+# Core
+streamlit
 pandas
-io
-dotenv
+python-dotenv
+
+# LangChain Ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-groq
+
+# Optional: if you use FAISS or other tools later
+faiss-cpu
